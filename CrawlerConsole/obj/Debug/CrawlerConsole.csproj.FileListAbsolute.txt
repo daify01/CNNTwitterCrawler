@@ -1,0 +1,16 @@
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CNNTwitterCrawler\CrawlerConsole\bin\Debug\CrawlerConsole.exe.config
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CNNTwitterCrawler\CrawlerConsole\bin\Debug\CrawlerConsole.exe
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CNNTwitterCrawler\CrawlerConsole\bin\Debug\CrawlerConsole.pdb
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CNNTwitterCrawler\CrawlerConsole\bin\Debug\CNNTwitterCrawler.Base.dll
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CNNTwitterCrawler\CrawlerConsole\bin\Debug\Hammock.ClientProfile.dll
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CNNTwitterCrawler\CrawlerConsole\bin\Debug\Newtonsoft.Json.dll
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CNNTwitterCrawler\CrawlerConsole\bin\Debug\TweetSharp.dll
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CNNTwitterCrawler\CrawlerConsole\bin\Debug\CNNTwitterCrawler.Base.pdb
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CNNTwitterCrawler\CrawlerConsole\bin\Debug\Hammock.ClientProfile.pdb
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CNNTwitterCrawler\CrawlerConsole\bin\Debug\Newtonsoft.Json.xml
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CNNTwitterCrawler\CrawlerConsole\bin\Debug\TweetSharp.pdb
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CNNTwitterCrawler\CrawlerConsole\obj\Debug\CrawlerConsole.csprojResolveAssemblyReference.cache
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CNNTwitterCrawler\CrawlerConsole\obj\Debug\CrawlerConsole.exe
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CNNTwitterCrawler\CrawlerConsole\obj\Debug\CrawlerConsole.pdb
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CNNTwitterCrawler\CrawlerConsole\bin\Debug\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CNNTwitterCrawler\CrawlerConsole\bin\Debug\Microsoft.AspNet.FriendlyUrls.xml
