@@ -55,6 +55,6 @@ Use Internet Explorer or Microsoft Edge instead, and you'll be fine.
 
 Issue 3:
 After filling the form below, I clicked the "Submit Query" button to send the mail, but got the error below:
-![alt text](CNNTwitterCrawler/EmailSenderError.jpg)
+![alt text](https://raw.githubusercontent.com/daify01/CNNTwitterCrawler/master/path/to/EmailSenderError.jpg)
 
 Solution:
