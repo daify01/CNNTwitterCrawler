@@ -26,7 +26,7 @@ NOTE: You can launch the solution to view the code in visual studio by clicking 
 
 
 
-**Features**
+**FEATURES**
 
 **.** Crawls the latest 25 articles about Trump from CNN website and his latest 25 tweets
 **.** Displays the titles of the crawled information in the pages of the web application described in the "PROJECTS IN SOLUTION" section
@@ -35,7 +35,7 @@ NOTE: You can launch the solution to view the code in visual studio by clicking 
 
 
 
-**Known Issues**
+**KNOWN ISSUES**
 
 
 
