@@ -146,31 +146,6 @@
         function openWithoutReferrer(url) {
             var site = window.open(url, "hide_referrer");
         }
-        //$("#Edit").click(function () {
-        //    location = '../ManageCustomerAcct/EditCustomerAccountReal.aspx?id=' + $(this).attr("data-id");
-        //});
-
-        function closeAccount(id) {
-            alertify.confirm("Do you want to close this account?",
-                function () {
-                    $.ajax({
-                        url: '/api/Query/CloseAccount?id=' + id,
-                        method: 'POST',
-                        success: function (result) {
-                            debugger;
-                            alertify.alert("This user's account has been closed");
-                             $('.status-' + id).html('Closed').addClass('btn-danger').removeClass('btn-info');
-                            //$("input[type=button]").attr('disabled', 'disabled');
-                            //$("button[type=button]").removeAttr('disabled');
-                             location.reload();
-                        },
-                        error: function () {
-                            debugger;
-                        }
-                        //error: alertify.alert("This user's account could not be closed")
-                    });
-                });
-        }
 
     </script>
 </asp:Content>

@@ -17,6 +17,8 @@ namespace CNNTwitterCrawler
             return new string[] { "value1", "value2" };
         }
 
+        //API Address = '/api/Query/TrumpCNNUpdatesForView'
+        //DataTable that the webpage calls via above API address to display the CNN Updates gotten from "CrawlerLauncher.cs" class in "CNNTwitterCrawler.Base" assembly
         public DataTableSuccessMessage TrumpCNNUpdatesForView()
         {
             try
@@ -51,6 +53,8 @@ namespace CNNTwitterCrawler
             }                      
         }
 
+        //API Address = '/api/Query/TrumpTwitterUpdatesForView'
+        //DataTable that the webpage calls via above API address to display the Twitter Updates gotten from "CrawlerLauncher.cs" class in "CNNTwitterCrawler.Base" assembly
         public DataTableSuccessMessage TrumpTwitterUpdatesForView()
         {
             try

@@ -11,3 +11,4 @@ C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CNNTwitterCrawler\CNNTwi
 C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CNNTwitterCrawler\CNNTwitterCrawler.Base\obj\Debug\CNNTwitterCrawler.Base.pdb
 C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CNNTwitterCrawler\CNNTwitterCrawler.Base\bin\Debug\Microsoft.AspNet.FriendlyUrls.dll
 C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CNNTwitterCrawler\CNNTwitterCrawler.Base\bin\Debug\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\CNNTwitterCrawler\CNNTwitterCrawler.Base\obj\Debug\CNNTwitterCrawler.Base.csprojResolveAssemblyReference.cache

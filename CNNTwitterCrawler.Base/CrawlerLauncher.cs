@@ -29,6 +29,7 @@ namespace CNNTwitterCrawler.Base
             {
                 Console.WriteLine("starting CNN Crawling");
                 var url = "https://search.api.cnn.io/content?q=trump&size=25&type=article"; //CNN's search API for articles. Search Parameter gets first 25 articles
+                //API was gotten after analyzing the page source of the results page for a seach query I made on CNN's website 
 
                 WebRequest request = WebRequest.Create(url);
                 request.Credentials = CredentialCache.DefaultCredentials;
@@ -68,6 +69,7 @@ namespace CNNTwitterCrawler.Base
             twitterService.AuthenticateWith(_twitteraccessToken, _twitteraccessTokenSecret);
 
             var url = "https://twitter.com/search?q=trump&src=typd"; //Twitter's search API for articles. Make a web request call to this search url, so as to ensure it's up and running. If this isn't done, it throws an "Arithmetic Overflow" exception everytime the url is not running
+            //I did this because I noticed that the API call always worked fine whenever I refreshed the my browser twitter window containing the above search url.
             WebRequest request = WebRequest.CreateHttp(url);
             request.Credentials = CredentialCache.DefaultCredentials;
             HttpWebResponse response = (HttpWebResponse)request.GetResponse();
