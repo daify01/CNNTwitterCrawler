@@ -17,7 +17,7 @@ namespace CNNTwitterCrawler.Base
     public class CrawlerLauncher
     {
         public static List<Tuple<string, string>> CnnHeadlinesAndLinks = new List<Tuple<string, string>>();
-        public static string _twitterconsumerKey = System.Configuration.ConfigurationSettings.AppSettings["_twitterconsumerKey"]; // Your consumer key
+       public static string _twitterconsumerKey = System.Configuration.ConfigurationSettings.AppSettings["_twitterconsumerKey"]; // Your consumer key
         public static string _twitterconsumerSecret = System.Configuration.ConfigurationSettings.AppSettings["_twitterconsumerSecret"]; // Your _consumerSecret key  
         public static string _twitteraccessToken = System.Configuration.ConfigurationSettings.AppSettings["_twitteraccessToken"]; // Your _accessToken key
         public static string _twitteraccessTokenSecret = System.Configuration.ConfigurationSettings.AppSettings["_twitteraccessTokenSecret"]; // Your _accessTokenSecret key 
