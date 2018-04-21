@@ -17,10 +17,10 @@ namespace CNNTwitterCrawler.Base
     public class CrawlerLauncher
     {
         public static List<Tuple<string, string>> CnnHeadlinesAndLinks = new List<Tuple<string, string>>();
-        public static string _twitterconsumerKey = "k7nEERRqWabOaQf6hWfMU2PLm"; // Your consumer key
-        public static string _twitterconsumerSecret = "vH8JHbshHLe7pjykFqtwpTcQnf01LkHTkfkBAth81ng3IYymM0"; // Your _consumerSecret key  
-        public static string _twitteraccessToken = "1344081889-Emx0sqgFdIUNZd2hF9kCXGfz8jOfUMUAuf1LCZa"; // Your _accessToken key
-        public static string _twitteraccessTokenSecret = "yFr6fWRP5POpq7Bpd3Am7NoSHVxvUyMeyLDNVEBRvj4c1"; // Your _accessTokenSecret key 
+       public static string _twitterconsumerKey = System.Configuration.ConfigurationSettings.AppSettings["_twitterconsumerKey"]; // Your consumer key
+        public static string _twitterconsumerSecret = System.Configuration.ConfigurationSettings.AppSettings["_twitterconsumerSecret"]; // Your _consumerSecret key  
+        public static string _twitteraccessToken = System.Configuration.ConfigurationSettings.AppSettings["_twitteraccessToken"]; // Your _accessToken key
+        public static string _twitteraccessTokenSecret = System.Configuration.ConfigurationSettings.AppSettings["_twitteraccessTokenSecret"]; // Your _accessTokenSecret key 
         public static List<TwitterStatus> twitterObjects = new List<TwitterStatus>();
         public static List<Tuple<string, string>> StartCNNCrawler()
         {
