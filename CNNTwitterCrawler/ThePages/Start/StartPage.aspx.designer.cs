@@ -10,7 +10,7 @@
 namespace CNNTwitterCrawler.ThePages.Start {
     
     
-    public partial class GetTwitterUpdates {
+    public partial class StartPage {
         
         /// <summary>
         /// form1 control.
@@ -20,5 +20,23 @@ namespace CNNTwitterCrawler.ThePages.Start {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
+        
+        /// <summary>
+        /// Submit1 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlButton Submit1;
+        
+        /// <summary>
+        /// Submit2 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlButton Submit2;
     }
 }

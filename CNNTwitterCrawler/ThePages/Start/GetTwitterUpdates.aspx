@@ -52,7 +52,7 @@
     <section class="content">
               <form id="form1" runat="server"> 
               <div class="col-md-6">
-                  <h3 class="box-title" style="color:black; font-family:Helvetica, Arial, sans-serif;">Share link From Gmail Account To Any Email </h3>
+                  <%--<h3 class="box-title" style="color:black; font-family:Helvetica, Arial, sans-serif;">Share link From Gmail Account To Any Email </h3>
                   <label for="TextBoxNameEmail">Use this feature to share this link with people</label>
                   <b></b>
                   <br />
@@ -86,9 +86,8 @@
                         
 
                         <div class="box-footer">
-            <%--<button type="button"  id="btnNext" CssClass="next-btn" runat="server" class="btn btn-flat btn-primary pull-right" OnServerClick="searchsubmit_OnServerClick">Send Mail</button>--%>
              <input type="submit" runat="server" OnServerClick="searchsubmit_OnServerClick" id="searchsubmit" class="btn btn-flat btn-primary pull-right" name="Add"/>
-            </div> 
+            </div> --%>
                                 </div>
               </form>
               

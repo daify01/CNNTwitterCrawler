@@ -1200,6 +1200,7 @@
     <Content Include="Site.Master" />
     <Content Include="ThePages\Start\GetCNNUpdates.aspx" />
     <Content Include="ThePages\Start\GetTwitterUpdates.aspx" />
+    <Content Include="ThePages\Start\StartPage.aspx" />
     <Content Include="ViewSwitcher.ascx" />
     <Content Include="Web.config" />
     <Content Include="Bundle.config" />
@@ -1389,6 +1390,13 @@
     </Compile>
     <Compile Include="ThePages\Start\GetTwitterUpdates.aspx.designer.cs">
       <DependentUpon>GetTwitterUpdates.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ThePages\Start\StartPage.aspx.cs">
+      <DependentUpon>StartPage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ThePages\Start\StartPage.aspx.designer.cs">
+      <DependentUpon>StartPage.aspx</DependentUpon>
     </Compile>
     <Compile Include="ViewSwitcher.ascx.cs">
       <DependentUpon>ViewSwitcher.ascx</DependentUpon>
