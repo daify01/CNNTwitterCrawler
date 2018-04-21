@@ -56,25 +56,6 @@ After clicking on "View Details", I get alerted that article or tweet has been o
 **Solution:**
 This would likely happen to if you are using Google Chrome browser, as chrome has features which inherently disable popup viewing.
 
-Use Internet Explorer or Microsoft Edge instead, and you'll be fine.
+Enable Popups for this site on your browser, and you'll be fine.
 
 
-
-**Issue 3:**
-After filling the form below, I clicked the "Submit Query" button to send the mail, but got the error like the one in popup below:
-![alt text](https://github.com/daify01/CNNTwitterCrawler/blob/master/EmailSenderError.jpg)
-
-**Solution:**
-1) Check to see if you got a saying google blocked sending of that mail, and you need to enable "less secure applications settings" on google to allow the mail send. If you got this mail, click the link in the mail to go to the page where you need to enable less secure applications, and enable it there.
-
-2) If you still get the popup error image above after doing (1), then check for the mail telling you that google blocked suspicious sign in from a remote server, click the link button in the mail, and confirm that you tried to send the mail.
-
-You will be able to send mails after this
-
-
-
-**Issue 4:**
-I was got a "Mail Sent Successfully" response, but the recipient cannot see the mail in their inbox
-
-**Solution:**
-Advise them to check their Spam folder.
